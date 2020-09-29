@@ -1,0 +1,5 @@
+TYPE=MODEL
+ANGLE=0
+SCALE=1
+NAME=Mesh
+FILE=trim_10.3ds

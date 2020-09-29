@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-27052011-082576";"";
+"REFERENCE";"6200.4315";"";
+"TraceParts.PartTitle";"IEC INLET 1 POLE FUSE SNAP 1,5MM PANEL";"";
+"TraceParts.InstanceId";"10-27052011-08257679NZ30HNJOW87C64ZEZKCJMYM";"";
+"DESIGN";"IEC INLET 1 POLE FUSE SNAP 1,5MM PANEL";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"SCHURTER";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"SCHURTER:/ROOT/C31/C31.T01.T03/10-27052011-082576";"";

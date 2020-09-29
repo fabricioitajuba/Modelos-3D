@@ -1,0 +1,7 @@
+type=model
+name=model
+file=srew2v.3ds
+angle=0
+X=-0.14in
+Y=-0.36in
+scale=0.1

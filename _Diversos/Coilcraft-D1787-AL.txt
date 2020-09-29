@@ -1,0 +1,14 @@
+Hello,
+Model of Coilcraft power inductor . Created in Solidworks 2013, tan translated by Blender to 3ds  format.
+ 
+to use in ARES:
+ 
+TYPE=MODEL
+FILE=Coilcraft-D1787-AL.3ds
+NAME=Assem1
+SCALE=1mm
+X=-9
+Y=4.8
+
+Thank you made 3D models for ARES available to all =)
+A.P.
